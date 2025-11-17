@@ -66,10 +66,4 @@ A dynamic, interactive roadmap editor built with **SVG, HTML, CSS, and JavaScrip
 - **Node Highlighting**: Active or selected nodes and connections are highlighted for clarity.
 - **Undo / Redo**: (Optional: implementable if required for advanced roadmap editing.)
 
----
-
-## Getting Started
-
-1. **Clone Repository**
-   ```bash
-   git clone <repo-url>
+--- 
